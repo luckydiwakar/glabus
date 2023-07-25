@@ -96,9 +96,6 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 				</nav>	
 			</div>
 		</div>
-
-
-
 <div class="container-fluid">										<!--sine up  start -->
 	<div class="header">
 		<div class="row">
